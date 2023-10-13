@@ -263,19 +263,19 @@ h2 {
     background-size: cover;
 }
 #item16{
-    background-image: url(images/16.jpg);
+    background-image: url(images/movie16.jpg);
     background-size: cover;
 }
 #item17{
-    background-image: url(images/17.webp);
+    background-image: url(images/movie17.webp);
     background-size: cover;
 }
 #item18{
-    background-image: url(images/18.jpg);
+    background-image: url(images/movie18.jpg);
     background-size: cover;
 }
 #item19{
-    background-image: url(images/19.jpg);
+    background-image: url(images/movie19.jpg);
     background-size: cover;
 }
 .item:hover {
@@ -688,7 +688,7 @@ pre {
     .bg {
         height: 58vh;
         width: 100%;
-        background-image: url(images/\(800\).jpg);
+        background-image: url(images/media800.jpg);
         background-size: cover;
     }
 
@@ -730,7 +730,7 @@ pre {
 @media screen and (max-width:750px) {
     .bg {
         height: 55vh;
-        background-image: url(images/\(750\).jpg);
+        background-image: url(images/media750.jpg);
         background-size: cover;
     }
 
@@ -789,7 +789,7 @@ pre {
         .bg {
             width: 100%;
             height: 68vh;
-            background-image: url(images/700.webp);
+            background-image: url(images/media700.webp);
             background-size: cover;
         }
 
@@ -853,7 +853,7 @@ pre {
         .bg {
             height: 65vh;
             width: 100%;
-            background-image: url(images/650.jpg);
+            background-image: url(images/media650.jpg);
             background-size: cover;
         }
 
@@ -899,7 +899,7 @@ pre {
         .bg {
             height: 56vh;
             width: 100%;
-            background-image: url(images/600.png);
+            background-image: url(images/media600.png);
             background-size: cover;
         }
 
@@ -1001,7 +1001,7 @@ pre {
         .bg {
             height: 56vh;
             width: 103%;
-            background-image: url(images/550.jpeg);
+            background-image: url(images/media550.jpeg);
             background-size: cover;
         }
         .video{
@@ -1080,13 +1080,13 @@ pre {
 
     @media screen and (max-width:500px) {
         nav {
-            width: 125%;
+            width: 100%;
         }
 
         .bg {
             height: 56vh;
             width: 125%;
-            background-image: url(images/500.jpg);
+            background-image: url(images/media500.jpg);
             background-size: cover;
         }
         .video{
@@ -1173,13 +1173,13 @@ pre {
 
     @media screen and (max-width:450px) {
         nav {
-            width: 125%;
+            width: 100%;
         }
 
         .bg {
             height: 60vh;
             width: 125%;
-            background-image: url(images/450.jpg);
+            background-image: url(images/media450.jpg);
             background-size: cover;
         }
         .video{
@@ -1245,12 +1245,12 @@ pre {
 
     @media screen and (max-width:400px) {
         nav {
-            width: 146%;
+            width: 100%;
         }
 
         .bg {
             width: 146%;
-            background-image: url(images/400.webp);
+            background-image: url(images/media400.jpg);
             background-size: cover;
         }
 
@@ -1293,13 +1293,13 @@ pre {
 
     @media screen and (max-width:350px) {
         nav {
-            width: 172%;
+            width: 100%;
         }
 
         .bg {
             height: 54vh;
             width: 172%;
-            background-image: url(images/\(350\).webp);
+            background-image: url(images/media350.webp);
             background-size: cover;
         }
         .video{
